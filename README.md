@@ -36,21 +36,4 @@
 
 ---
 
-## 🔥 GitHub Stats
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NowOrN3wer&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NowOrN3wer&show_icons=true&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NowOrN3wer&layout=compact&theme=dark&hide_border=true" />
-</p>
-
----
-
 > “Code is read more than it is written.”
