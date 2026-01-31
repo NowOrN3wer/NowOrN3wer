@@ -13,9 +13,10 @@
 ## 👨‍💻 About Me
 
 - 🇹🇷 Based in **Ankara, Turkey**
-- 💻 Software Engineer
-- ⚙️ Backend ağırlıklı, Full Stack deneyimi
-- ☕ Clean code, mimari ve sürdürülebilir sistemler
+- 💻 Software Engineer focused on **Backend Development**
+- 🧱 Designing systems with **Clean Architecture**, **SOLID** and **DDD principles**
+- ⚙️ Experienced in building **scalable, maintainable and testable APIs**
+- ☕ Strong advocate of **clean code**, code reviews and long-living systems
 - 📫 Reach me on **LinkedIn**
 
 ---
